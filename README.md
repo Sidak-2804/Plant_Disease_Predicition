@@ -56,10 +56,13 @@ We used the publicly available PlantVillage dataset for training the backend ML 
 
 ## 📸 Sample Results
 
-| Screenshot                      | Description               |
-|----------------------------------|----------------------------|
-| ![UI Screenshot](assets/images/screenshot1.jpg) | Upload and preview interface |
-| ![Prediction](assets/images/screenshot2.jpg)     | Loading + predicted result  |
-| ![Final Result](assets/images/screenshot3.jpg)   | Final displayed disease info |
+## 📸 Sample Results
 
+### ✅ Prediction Output
+![Prediction Output](./screenshots/Screenshot_2025-04-02_215443.png)
 
+### 🟩 Disease Prediction
+![Disease Prediction](./screenshots/Screenshot_2025-04-02_215454.png)
+
+### 🖼️ Frontend UI
+![Frontend UI](./screenshots/Screenshot_2025-04-09_000747.png)
