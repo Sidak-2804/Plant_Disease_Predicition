@@ -40,10 +40,8 @@ We used the publicly available PlantVillage dataset for training the backend ML 
 |-------------|--------------------|
 | Frontend    | HTML5, CSS3, JavaScript |
 | Styling     | Custom CSS, gradients, animations |
-| Image Upload | FileReader API     |
-| Prediction  | Simulated with JavaScript (Real ML possible with Flask/Django backend) |
-| Model (optional) | Keras `.keras` or `.h5` format |
-
+| ML Model    | TensorFlow / Keras     |
+| Format      | `.keras` trained model |
 ---
 
 ## 🛠️ How It Works
@@ -58,15 +56,10 @@ We used the publicly available PlantVillage dataset for training the backend ML 
 
 ## 📸 Sample Results
 
-| Uploaded Leaf Image            | Predicted Result     |
-|--------------------------------|----------------------|
-| ![Sample1](assets/images/sample1.jpg) | Powdery Mildew       |
-| ![Sample2](assets/images/sample2.jpg) | Tomato Mosaic Virus  |
-| ![Sample3](assets/images/sample3.jpg) | Healthy Leaf         |
+| Screenshot                      | Description               |
+|----------------------------------|----------------------------|
+| ![UI Screenshot](assets/images/screenshot1.jpg) | Upload and preview interface |
+| ![Prediction](assets/images/screenshot2.jpg)     | Loading + predicted result  |
+| ![Final Result](assets/images/screenshot3.jpg)   | Final displayed disease info |
 
-> Replace these images with real output screenshots in the `assets/images/` folder.
-
----
-
-## 🧾 Folder Structure
 
