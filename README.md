@@ -26,9 +26,9 @@ Early identification of plant diseases is crucial to ensure healthy crop yields.
 
 We used the publicly available PlantVillage dataset for training the backend ML model (not included in this frontend-only version).
 
-🔗 **[PlantVillage Dataset on Kaggle](https://www.kaggle.com/datasets/emmarex/plantdisease)**
+🔗 **[New Plant Diseases Dataset on Kaggle]([https://www.kaggle.com/datasets/emmarex/plantdisease](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset))**
 
-- Contains 54,306 images across 38 disease categories
+- Contains more than a lakh images across 38 disease categories
 - Includes both healthy and diseased samples
 - Covers common crops like apple, corn, grape, potato, tomato, and more
 
