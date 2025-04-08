@@ -56,13 +56,13 @@ We used the publicly available PlantVillage dataset for training the backend ML 
 
 ## 📸 Sample Results
 
-## 📸 Sample Results
+## 🧪 Sample Prediction Output Screenshots
 
-### ✅ Prediction Output
-![Prediction Output](./screenshots/Screenshot_2025-04-02_215443.png)
+### 📷 Screenshot 1
+![Prediction 1](https://raw.githubusercontent.com/harsidak-singh/plant-disease-detector/main/Screenshot%202025-04-02%20215443.png)
 
-### 🟩 Disease Prediction
-![Disease Prediction](./screenshots/Screenshot_2025-04-02_215454.png)
+### 📷 Screenshot 2
+![Prediction 2](https://raw.githubusercontent.com/harsidak-singh/plant-disease-detector/main/Screenshot%202025-04-02%20215454.png)
 
-### 🖼️ Frontend UI
-![Frontend UI](./screenshots/Screenshot_2025-04-09_000747.png)
+### 📷 Screenshot 3
+![Prediction 3](https://raw.githubusercontent.com/harsidak-singh/plant-disease-detector/main/Screenshot%202025-04-09%20000747.png)
